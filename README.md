@@ -1,6 +1,9 @@
 # Basic Programming (Java)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Java Version](https://img.shields.io/badge/Java-25-orange?style=flat&logo=java)
+![Repo Size](https://img.shields.io/github/repo-size/Vallens-jpg/Basic-Programming)
+![Github](https://img.shields.io/badge/github-repo-blue?logo=github)
 
 Repositori ini berisi kumpulan kode program dasar menggunakan bahasa pemrograman Java. Proyek ini mendokumentasikan proses pembelajaran mandiri maupun materi perkuliahan, mulai dari pengenalan sintaks dasar hingga implementasi logika pemrograman yang lebih kompleks.
 
