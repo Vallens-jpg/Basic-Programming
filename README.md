@@ -5,7 +5,7 @@
 ![Repo Size](https://img.shields.io/github/repo-size/Vallens-jpg/Basic-Programming)
 ![Github](https://img.shields.io/badge/github-repo-blue?logo=github)
 
-Repositori ini berisi kumpulan kode program dasar menggunakan bahasa pemrograman Java. Proyek ini mendokumentasikan proses pembelajaran mandiri maupun materi perkuliahan, mulai dari pengenalan sintaks dasar hingga implementasi logika pemrograman yang lebih kompleks.
+Repositori ini berisi kumpulan kode program dasar menggunakan bahasa pemrograman Java. Proyek ini mendokumentasikan proses pembelajaran materi perkuliahan Basic Programming yang diampu oleh Bpk Deny, mulai dari pengenalan sintaks dasar hingga implementasi logika pemrograman yang lebih kompleks.
 
 ## 🚀 Fitur Utama
 
