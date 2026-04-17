@@ -37,19 +37,20 @@ Basic-Programming/
 │   └── pertemuan_6.java   # Nested loop dan pola bintang
 ├── Basic Programming.iml  # File modul IntelliJ IDEA
 └── .gitignore             # Daftar file yang diabaikan oleh Git
-
-🤝 Kontribusi
+```
+## 🤝 Kontribusi
 Kontribusi sangat terbuka bagi siapa saja yang ingin memperbaiki atau menambahkan materi dasar pemrograman lainnya.
 
-Fork repositori ini.
+Fork repositori ini. ->
 
-Buat branch fitur baru (git checkout -b fitur/MateriBaru).
+Buat branch fitur baru (git checkout -b fitur/MateriBaru). ->
 
-Commit perubahan Anda (git commit -m 'Menambahkan materi X').
+Commit perubahan Anda (git commit -m 'Menambahkan materi X'). ->
 
-Push ke branch tersebut (git push origin fitur/MateriBaru).
+Push ke branch tersebut (git push origin fitur/MateriBaru). ->
 
 Buka Pull Request.
 
-📜 Lisensi
+## 📜 Lisensi
 Proyek ini dilisensikan di bawah MIT License. Anda bebas untuk menggunakan, menyalin, memodifikasi, dan mendistribusikan kode ini untuk tujuan pembelajaran.
+
