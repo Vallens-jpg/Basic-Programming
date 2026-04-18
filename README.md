@@ -5,7 +5,7 @@
 ![Repo Size](https://img.shields.io/github/repo-size/Vallens-jpg/Basic-Programming)
 ![Github](https://img.shields.io/badge/github-repo-blue?logo=github)
 
-Repositori ini berisi kumpulan kode program dasar menggunakan bahasa pemrograman Java. Proyek ini mendokumentasikan proses pembelajaran materi perkuliahan Basic Programming yang diampu oleh Bpk Deny, mulai dari pengenalan sintaks dasar hingga implementasi logika pemrograman yang lebih kompleks.
+Repositori ini berisi kumpulan kode program dasar menggunakan bahasa pemrograman Java. Proyek ini mendokumentasikan proses pembelajaran materi perkuliahan Basic Programming yang diampu oleh Bpk Deny Sumargo, mulai dari pengenalan sintaks dasar hingga implementasi logika pemrograman yang lebih kompleks.
 
 ## 🚀 Fitur Utama
 
@@ -21,7 +21,7 @@ Proyek ini mencakup berbagai materi dasar pemrograman yang terbagi menjadi beber
 ## 🛠️ Teknologi yang Digunakan
 
 * **Java:** Bahasa pemrograman utama (menggunakan JDK 25).
-* **IntelliJ IDEA:** Lingkungan pengembangan terpadu (IDE) yang digunakan untuk menyusun proyek ini.
+* **IntelliJ IDEA:** Lingkungan pengembangan terpadu (IDE) yang digunakan untuk menyusun proyek ini (proyek tetap bisa dijalankan dengan menggunakan netbeans).
 
 ## 📁 Susunan Project
 
@@ -44,14 +44,18 @@ Basic-Programming/
 ## 🤝 Kontribusi
 Kontribusi sangat terbuka bagi siapa saja yang ingin memperbaiki atau menambahkan materi dasar pemrograman lainnya.
 
-Fork repositori ini. ->
-
-Buat branch fitur baru (git checkout -b fitur/MateriBaru). ->
-
-Commit perubahan Anda (git commit -m 'Menambahkan materi X'). ->
-
-Push ke branch tersebut (git push origin fitur/MateriBaru). ->
-
+Fork repositori ini.
+      |
+      V
+Buat branch fitur baru (git checkout -b fitur/MateriBaru (cont: pertemuan_7).
+      |
+      V
+Commit perubahan Anda (git commit -m 'Menambahkan materi X').
+      |
+      V
+Push ke branch tersebut (git push origin fitur/MateriBaru).
+      |
+      V
 Buka Pull Request.
 
 ## 📜 Lisensi
