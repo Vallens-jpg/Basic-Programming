@@ -1,15 +1,14 @@
-  <h1 align="center">Java 25</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="150" height="150"/>
 </p>
 
-<h1 align="center">Basic Programming</h1>
+<h1 align="center">Java 25: Basic Programming</h1>
 
 <p align="center">
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Java Version](https://img.shields.io/badge/Java-25-orange?style=flat&logo=java)
-![Repo Size](https://img.shields.io/github/repo-size/Vallens-jpg/Basic-Programming)
-![Github](https://img.shields.io/badge/github-repo-blue?logo=github)
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License MIT">
+  <img src="https://img.shields.io/badge/Java-25-orange?style=flat&logo=java" alt="Java Version">
+  <img src="https://img.shields.io/github/repo-size/Vallens-jpg/Basic-Programming" alt="Repo Size">
+  <img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="Github Repo">
 </p>
 
 Repositori ini berisi kumpulan kode program dasar menggunakan bahasa pemrograman Java. Proyek ini mendokumentasikan proses pembelajaran materi perkuliahan Basic Programming yang diampu oleh Bpk Deny Sumargo, mulai dari pengenalan sintaks dasar hingga implementasi logika pemrograman yang lebih kompleks.
