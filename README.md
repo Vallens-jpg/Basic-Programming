@@ -50,20 +50,12 @@ Basic-Programming/
 ##  Kontribusi
 Kontribusi sangat terbuka bagi siapa saja yang ingin memperbaiki atau menambahkan materi dasar pemrograman lainnya.
 
-Fork repositori ini.
-      |
-      V
-Buat branch fitur baru (git checkout -b fitur/MateriBaru (cont: pertemuan_7).
-      |
-      V
-Commit perubahan Anda (git commit -m 'Menambahkan materi X').
-      |
-      V
-Push ke branch tersebut (git push origin fitur/MateriBaru).
-      |
-      V
-Buka Pull Request.
+**Fork repositori ini** ->
+**Buat branch fitur baru (git checkout -b fitur/MateriBaru (cont: pertemuan_7)** ->
+**Commit perubahan Anda (git commit -m 'Menambahkan materi X')** ->
+**Push ke branch tersebut (git push origin fitur/MateriBaru)** ->
+**Buka Pull Request**.
 
-## 📜 Lisensi
+## Lisensi
 Proyek ini dilisensikan di bawah MIT License. Anda bebas untuk menggunakan, menyalin, memodifikasi, dan mendistribusikan kode ini untuk tujuan pembelajaran.
 
