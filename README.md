@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="Github Repo">
 </p>
 
-Repositori ini berisi kumpulan kode program dasar menggunakan bahasa pemrograman Java. Proyek ini mendokumentasikan proses pembelajaran materi perkuliahan Basic Programming yang diampu oleh Bpk Deny Sumargo, mulai dari pengenalan sintaks dasar hingga implementasi logika pemrograman yang lebih kompleks.
+Repositori ini berisi kumpulan kode program dasar menggunakan bahasa pemrograman Java. Proyek ini mendokumentasikan proses pembelajaran materi perkuliahan Basic Programming yang diampu oleh Bpk Deny Prasetyo, S.Pd., M.Kom., mulai dari pengenalan sintaks dasar hingga implementasi logika pemrograman yang lebih kompleks.
 
 ##  Fitur Utama
 
